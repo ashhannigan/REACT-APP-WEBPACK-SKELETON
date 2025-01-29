@@ -3,9 +3,9 @@
 Configuration: 
 
 How to use:
-npm i
-npm run build
-npm run dev
+npm i //
+npm run build //
+npm run dev //
 
 How to add / edit: 
 
